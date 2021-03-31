@@ -2,6 +2,13 @@
   "Music": 
   [
     {
+      "id": 0,
+      "title": "Hanuman Chalisa",
+      "artist": "Hariharan",
+      "img": "https://i0.wp.com/www.newsgram.com/wp-content/uploads/2018/01/Hanuman-Bhajan-2014.jpg",
+      "src": "../audio/hanumanchalisa.mp3"
+    },
+    {
       "id": 1,
       "title": "Cheej Badi Hai",
       "artist": "Neha Kakkar",
