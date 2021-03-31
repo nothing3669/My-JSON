@@ -1,15 +1,15 @@
 {
-  "User": 
+  "Music": 
   [
     {
-    "id": 1,
-    "name": "Rajan Gautam",
-    "uni": "PDEU"
+      "id": 1,
+      "title": "Mile Ho Tum Hamko",
+      "artist": "Neha Kakkar"
     },
     {
-    "id": 2,
-    "name": "Keshav Gautam",
-    "uni": "Southern Medical College"
+      "id": 2,
+      "title": "Coca Cola",
+      "artist": "Neha Kakkar"
     }
   ]
 }
