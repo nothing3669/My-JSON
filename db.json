@@ -28,6 +28,20 @@
       "artist": "Dhvani Bhanushali",
       "img": "https://images.news18.com/ibnlive/uploads/2020/11/1606189857_dhvani-bhanushali.jpg",
       "src": "vaaste.mp3"
-    }
+    },
+    {
+      "id": 5,
+      "title": "Behti Hawa",
+      "artist": "Shaan",
+      "img": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2017/11/30/Pictures/_a1d14d8c-d5c6-11e7-a032-ea4e291afd66.JPG",
+      "src": "behtihawa.mp3"
+    }, 
+    {
+      "id": 6,
+      "title": "All is Well",
+      "artist": "Sonu Nigam",
+      "img": "https://static.toiimg.com/photo/msid-67895035/67895035.jpg?114042",
+      "src": "alliswell.mp3"
+    }, 
   ]
 }
