@@ -6,21 +6,21 @@
       "title": "Cheej Badi Hai",
       "artist": "Neha Kakkar",
       "img": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/4/11/original/NehaKakkar.jpg",
-      "src": "../images/cheej.mp3"
+      "src": "../audio/cheej.mp3"
     },
     {
       "id": 2,
       "title": "Gali Gali",
       "artist": "Neha Kakkar",
       "img": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/4/11/original/NehaKakkar.jpg",
-      "src": "../images/gali.mp3"
+      "src": "../audio/gali.mp3"
     },
     {
       "id": 3,
       "title": "Vaaste",
       "artist": "Dhvani Bhanushali",
       "img": "https://images.news18.com/ibnlive/uploads/2020/11/1606189857_dhvani-bhanushali.jpg",
-      "src": "../images/vaaste.mp3"
+      "src": "../audio/vaaste.mp3"
     }
   ]
 }
