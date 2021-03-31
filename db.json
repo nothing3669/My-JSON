@@ -1,13 +1,15 @@
 {
   "User": 
   [
+    {
     "id": 1,
     "name": "Rajan Gautam",
     "uni": "PDEU"
-  ],
-  [
+    },
+    {
     "id": 2,
     "name": "Keshav Gautam",
     "uni": "Southern Medical College"
+    }
   ]
 }
