@@ -1,7 +1,7 @@
-[
-  {
+{
+  "User": {
     "id": 1,
     "name": "Rajan Gautam",
     "uni": "PDEU"
   }
-]
+}
