@@ -4,12 +4,14 @@
     {
       "id": 1,
       "title": "Mile Ho Tum Hamko",
-      "artist": "Neha Kakkar"
+      "artist": "Neha Kakkar",
+      "img": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/4/11/original/NehaKakkar.jpg"
     },
     {
       "id": 2,
       "title": "Coca Cola",
-      "artist": "Neha Kakkar"
+      "artist": "Neha Kakkar",
+      "img": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/4/11/original/NehaKakkar.jpg"
     }
   ]
 }
