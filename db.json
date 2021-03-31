@@ -2,28 +2,28 @@
   "Music": 
   [
     {
-      "id": 0,
+      "id": 1,
       "title": "Hanuman Chalisa",
       "artist": "Hariharan",
       "img": "https://i0.wp.com/www.newsgram.com/wp-content/uploads/2018/01/Hanuman-Bhajan-2014.jpg",
       "src": "../audio/hanumanchalisa.mp3"
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "Cheej Badi Hai",
       "artist": "Neha Kakkar",
       "img": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/4/11/original/NehaKakkar.jpg",
       "src": "../audio/cheej.mp3"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Gali Gali",
       "artist": "Neha Kakkar",
       "img": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/4/11/original/NehaKakkar.jpg",
       "src": "../audio/gali.mp3"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Vaaste",
       "artist": "Dhvani Bhanushali",
       "img": "https://images.news18.com/ibnlive/uploads/2020/11/1606189857_dhvani-bhanushali.jpg",
